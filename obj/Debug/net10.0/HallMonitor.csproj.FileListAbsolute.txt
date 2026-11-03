@@ -1,0 +1,14 @@
+C:\Users\Samso\HallMonitor\bin\Debug\net10.0\HallMonitor.exe
+C:\Users\Samso\HallMonitor\bin\Debug\net10.0\HallMonitor.deps.json
+C:\Users\Samso\HallMonitor\bin\Debug\net10.0\HallMonitor.runtimeconfig.json
+C:\Users\Samso\HallMonitor\bin\Debug\net10.0\HallMonitor.dll
+C:\Users\Samso\HallMonitor\bin\Debug\net10.0\HallMonitor.pdb
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.AssemblyInfoInputs.cache
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.AssemblyInfo.cs
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.dll
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\refint\HallMonitor.dll
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.pdb
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\HallMonitor.genruntimeconfig.cache
+C:\Users\Samso\HallMonitor\obj\Debug\net10.0\ref\HallMonitor.dll
